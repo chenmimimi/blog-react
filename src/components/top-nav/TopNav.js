@@ -10,11 +10,11 @@ export default class TopNav extends Component {
         path: '/',
         type: 'index',
         index: 0,
-      },{
-        title: '文章',
-        path: '/',
-        type: 'article',
-        index: 1,
+      // },{
+      //   title: '文章',
+      //   path: '/',
+      //   type: 'article',
+      //   index: 1,
       },{
         title: '关于我',
         path: '/',
