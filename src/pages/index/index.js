@@ -13,7 +13,6 @@ export default class Index extends Component {
           <ArticleList/>
           <ExtraDetail/>
           <div className="width900 photo clear">
-            
           </div>
         </div>
         <BottomNav/>
