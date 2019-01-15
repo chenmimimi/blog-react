@@ -28,7 +28,7 @@ export default class TopNav extends Component {
           <div className="logo">一个蜜</div>
           <ul>
             {navData.map(item => (
-              <li className={active === item.type ? 'action' : ''}>
+              <li className={active === item.type ? 'action' : ''} key={item.index}>
                 <a href={item.path}>{item.title}</a>
               </li>
             ))}

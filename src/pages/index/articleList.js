@@ -6,7 +6,7 @@ export default class ArticleList extends Component {
       <div className="left70">
         <ul className="detail">
           <li className="detail-item">
-            <a href="/detail/19/ViVO,OPPO在JS中设置transform无法正确应用问题.html" class="title">标题标题标题标题</a>
+            <a href="/detail/19/ViVO,OPPO在JS中设置transform无法正确应用问题.html" className="title">标题标题标题标题</a>
             <p className="info">
                 <span className="category">tag</span>
                 <span className="viewpoint">
