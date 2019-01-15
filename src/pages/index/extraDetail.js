@@ -11,7 +11,7 @@ export default class ExtraDetail extends Component {
         </p>
         <ul className="link">
           <li>
-            0. <a>这是标题标题标题标题</a>
+            0. <a href="baidu.com">这是标题标题标题标题</a>
           </li>
         </ul>
         {/* <p className="title">

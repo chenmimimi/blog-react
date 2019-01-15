@@ -14,7 +14,7 @@ export default class Index extends Component {
   async getData () {
     const result = await axios.request(
       {
-        method: 'post',
+        method: 'get',
         url: `/hot`,
         data: {
           pageIndex: 1,
