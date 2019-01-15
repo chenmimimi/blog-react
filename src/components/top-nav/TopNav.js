@@ -17,7 +17,7 @@ export default class TopNav extends Component {
       //   index: 1,
       },{
         title: '关于我',
-        path: '/',
+        path: '/about',
         type: 'about',
         index: 2,
       }
